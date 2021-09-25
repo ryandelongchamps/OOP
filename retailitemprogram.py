@@ -13,5 +13,3 @@ price3 = '24.95'
 item1 = r.RetailItem(desc1,unit1,price1)
 item2 = r.RetailItem(desc2,unit2,price2)
 item3 = r.RetailItem(desc3,unit3,price3)
-
-print(item1.get_price)
